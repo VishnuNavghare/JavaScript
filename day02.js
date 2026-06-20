@@ -75,7 +75,7 @@ function wish(name){
 }
 wish("Vishnu")
 
-// Arrow Function...    lambda =>
+//2. Arrow Function...    lambda =>
 
 // division = lambda x : x * x;  // python
 
